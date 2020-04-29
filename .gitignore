@@ -1,0 +1,15 @@
+out
+product_IDs.txt
+query_results*
+*.aux.xml
+MyScripts
+Doc
+*.bak
+SEN3
+products-list.csv
+dhusget_tmp
+logs
+__pycache__
+OSquery-result.xml
+mask.tif
+product_list
